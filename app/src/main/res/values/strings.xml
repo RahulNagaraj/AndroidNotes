@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="add_note">Add Note</string>
+    <string name="info">Info</string>
+    <string name="save">Save</string>
+    <string name="filename">note.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="no_file">No JSON file found</string>
+    <string name="saved">Note Saved!</string>
+    <string name="note_deleted">Note Deleted</string>
+    <string name="intent_note_key">Note</string>
+    <string name="positive_alert_button">Yes</string>
+    <string name="negative_alert_button">No</string>
+    <string name="positive_save_note_alert_button">OK</string>
+    <string name="negative_save_note_alert_button">Cancel</string>
+    <string name="rahul_muddebihal">© 2021, Rahul Muddebihal</string>
+    <string name="version_1_0">Version 1.0</string>
+</resources>
